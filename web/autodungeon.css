@@ -36,6 +36,7 @@ html,body,div {
   display: -webkit-flex;
   display: flex;
   -webkit-align-items: stretch;
+  align-items: stretch;
 }
 
 .w100 {

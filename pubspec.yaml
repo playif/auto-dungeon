@@ -4,6 +4,5 @@ dependencies:
   angular: any
   browser: any
   crypto: any
-  shadow_dom: any
   web_components: any
   zip: any
