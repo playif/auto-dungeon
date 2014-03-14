@@ -2,7 +2,7 @@
 packages
 .project
 pubspec.lock
-
+build
 
 *.pydevproject
 .project
